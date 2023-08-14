@@ -1,4 +1,4 @@
-# Body_Measurement_MeidiaPipe
+# Body_Measurement_Algo
 
 -- To dowenload model files --
 
